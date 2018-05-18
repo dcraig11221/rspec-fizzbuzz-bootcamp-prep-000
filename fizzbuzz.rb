@@ -6,9 +6,9 @@ def fizzbuzz(n)
     elsif n % 3 == ) && n % 5 == 0
       puts "FizzBuzz"
     else
-      puts nil      
+      puts nil
     end
 end
-    
+
 
   
